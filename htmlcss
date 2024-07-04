@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> 
+      RESUME
+    </title>
+    <marquee  scrollamount="10" direction="left"> <h1 >WELCOME TO MY PESONAL WEBPAGE</h1></marquee>
+    
+    <h1 align="center">
+      <u>RESUME</u></h1>
+  </head>
+  <body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Nani_at_an_interview_for_film_companion_%28cropped%29.png" align="right" width="250px" height="250px">
+    <h2 >MUNDURI VASANTHI</h2>
+    <p><b>Email:</b> 23pa1a05g0@gmail.com<br>
+    <b>phone:</b> xxxxxxxxx</p>
+    <p><i>To obtain a challenging and demanding job that will further enhance knowledge and skill. To join an organization where the career is the pathway to prove myself for the company.</i> </p>
+    <h2><u>
+      Education</u>
+    </h2>
+    <p>
+      <b>Vishnu Institute Of Technology,Bhimavaram</b><br>
+        Bachelor of technology-CSE,2023-2027<br>
+      pursuing</p>
+    <p>
+      <b>Sri Chaitanya Junior College, Bhimavaram</b><br> 
+      Intermediate (10+2)-MPC<br>
+      9.7 CGPA</p>
+    <p><b> Ravindra English Medium School</b><br>
+     SSC (10th)
+      10 CGPA</p>
+    <h2>
+      <u>Skills</u>
+    </h2>
+    <p>
+      <ul>
+        <li>C</li>
+        <li>DSA</li>
+        <li>HTML and CSS</li>
+        
+    </ul>
+    </p>
+  <h2>
+    <u> Experience</u>
+  </h2>
+  <p>
+    No Experience
+  </p>
+  <h2>
+    <u>Certification</u>
+  </h2>
+  <p>
+    <b>Certified Standfordonline CSX0001 Certificate</b><br>
+      edX 
+    
+  </p>
+  <p><b>Certified FullbridgeX Career Development Certificate</b><br>
+    edX
+  </p>
+ <h2>
+   
+   <u>Strengths</u></h2>
+<p>
+<ul>
+  
+  <li>Self motivating</li>
+  <li>Self confidence</li>
+  <li>Positive attitude</li>
+  <li>Good listener</li>
+   </ul>
+  </p>
+<h2><u>
+  Languages</u>
+</h2>
+<p>
+  Telugu,English
+</p>
+<h2>
+  <u>Personal Profile</u>
+</h2>
+<p>
+  <b> Name                         :</b> Munduri Bindu Sri Santhi <br>
+  <b>Father Name                   :</b>  M. Satish<br>
+  <b>Date Of Birth                 :</b>  03-07-2005<br>
+  <b>Gender                        : </b> Female      <br>                 
+  <b>Marital Status                :</b>  Unmarried    <br>                 
+  <b>Address for Communication     :</b>  D.no-xxxxx,west godavari,Andhra pradesh.<br>
+
+</p>
+<h2>
+  <u>Declaration</u>
+</h2>
+<p>
+  <i>I hereby declare that the above particulars are true to the best of my knowledge and belief.</i><br></p>
+<p>
+  <b>PLACE:</b>Bhimavaram <br>
+   
+</p>
+<p>
+  
+</p>
+   </body>   
+</html>
