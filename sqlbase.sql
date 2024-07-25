@@ -83,3 +83,32 @@ insert into marks values('23ME2T01','EG','B',3);
 insert into marks values('23BS2P05','SPORTS','S',1) ;
 SELECT *
 FROM marks ;
+
+
+
+
+//addingcolumn
+
+alter table marks add gpoints number(2);
+
+//updating values to the gpoints
+
+update marks
+ set gpoints=9
+    where grade='A' ;
+update marks
+ set gpoints=10
+    where grade='S';
+update marks
+ set gpoints=8
+    where grade='B';
+select *
+from marks ;
+
+
+//selectsgrade
+
+
+select *
+    from marks
+where grade='S';
