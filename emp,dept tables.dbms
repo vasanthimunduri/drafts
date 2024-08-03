@@ -76,5 +76,19 @@ from emp
 group by job;
 
 
+//15.
+select ename
+from emp
+where ename like 'J%' or ename like 'A%' or ename like 'M%';
+ ENAME
+ JONES
+ ALLEN
+ MARTIN
+ ADAMS
+ JAMES
+ MILLER
+ 
+
+
 
 
