@@ -1,0 +1,4 @@
+select distinct dname 
+from dept,emp
+where sal>(select avg(sal)
+           from emp)
