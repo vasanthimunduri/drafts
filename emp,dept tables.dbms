@@ -87,6 +87,18 @@ where ename like 'J%' or ename like 'A%' or ename like 'M%';
  ADAMS
  JAMES
  MILLER
+
+
+//16.
+select ename,deptno
+from emp
+where comm is not null ;
+
+ENAME	DEPTNO
+ALLEN	30
+WARD	30
+MARTIN	30
+
  
 
 
