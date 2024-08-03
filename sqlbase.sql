@@ -38,6 +38,8 @@ select *
 from students;
 
 
+
+
 //modify columnsize
 alter table students modify bname varchar(30) ;
 select *
@@ -112,3 +114,15 @@ from marks ;
 select *
     from marks
 where grade='S';
+
+
+
+//orderby
+ select *
+from marks
+order by grade;
+
+select *
+from marks
+order by gpoints desc;
+
