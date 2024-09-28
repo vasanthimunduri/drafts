@@ -99,8 +99,65 @@ ALLEN	30
 WARD	30
 MARTIN	30
 
- 
 
 
+//18
+select e1.ename ename,e2.ename mgrname
+from emp e1,emp e2
+where e1.mgr=e2.empno;
+
+
+//20
+
+select * from emp where length(ename)=5;
+
+
+//26
+select ename from emp where ename like '_L%';
+
+
+
+//30
+select deptno ,max(sal),min(sal)
+from emp 
+group by deptno;
+
+
+//31
+select ename,empno,dname,loc from emp natural join dept;
+
+
+//37 
+create table emp1 as select * from emp where deptno=10;
+
+
+//39
+select * from emp where deptno=(select deptno from emp where ename ='JAMES');
+
+//40
+select * from emp where sal<= (select sal from emp where ename='ADAMS');
+
+
+//41
+select ename from emp where mgr=(select empno from emp where ename='BLAKE');
+
+//42
+select * from emp where comm=(select max(comm)
+from emp );
+
+
+//43
+select  ename, sal, dname, loc from emp natural join dept ;
+
+
+//44
+select * from emp natural join dept where loc='DALLAS';
+
+
+
+//48
+update emp 
+set ename='ANDY'
+where ename='JONES';
 
 
