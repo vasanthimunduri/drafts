@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-const url =
-  "mongodb+srv://kundetigowtham:@gowtham.ietqbmj.mongodb.net/Students?appName=Gowtham&retryWrites=true&w=majority";
+const url = "mongodb+srv://rvnuser:vasanthi123@rvn.xrq5pjp.mongodb.net/?appName=rvn" ;
 
 
 const StudentSchema = new mongoose.Schema({
